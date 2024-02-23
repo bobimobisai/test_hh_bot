@@ -1,0 +1,5 @@
+pyvenv.cfg
+__pycache__*/
+__pycache__/
+/container
+/db_orm
